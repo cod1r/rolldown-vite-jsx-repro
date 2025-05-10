@@ -1,4 +1,4 @@
-/** @jsx h */
+/** @jsx h @jsxRuntime classic */
 import { h, render } from './svgJSX'
 
 export function getHTMLString() {
